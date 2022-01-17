@@ -4,7 +4,12 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: theme => ({
+        'profile-image': "url('/public/EW2020.png')",
+      })
+
+    },
   },
   plugins: [],
 }
