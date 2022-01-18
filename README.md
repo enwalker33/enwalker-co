@@ -1,5 +1,6 @@
 
-#Enwalker.co
+# Enwalker.co
+  Profile card for Emmanuel Walker
 
 # Next.js + Tailwind CSS Example
 
