@@ -1,6 +1,6 @@
 
 # Enwalker.co
-  Profile card for Emmanuel Walker
+  Profile card Example for Emmanuel Walker
 
 # Next.js + Tailwind CSS Example
 
