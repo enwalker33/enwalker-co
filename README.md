@@ -1,6 +1,7 @@
 
 # Enwalker.co
-  Profile card Example for Emmanuel Walker
+  Profile card Example for Emmanuel Walker currently deprecated
+  
 
 # Next.js + Tailwind CSS Example
 
